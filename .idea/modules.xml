@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kasir_Client_1/Kasir_Client_1.iml" filepath="$PROJECT_DIR$/Kasir_Client_1/Kasir_Client_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kasir_Client_2/Kasir_Client_2.iml" filepath="$PROJECT_DIR$/Kasir_Client_2/Kasir_Client_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kasir_Server/Kasir_Server.iml" filepath="$PROJECT_DIR$/Kasir_Server/Kasir_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kasir-java-master.iml" filepath="$PROJECT_DIR$/.idea/kasir-java-master.iml" />
+    </modules>
+  </component>
+</project>

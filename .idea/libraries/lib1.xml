@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Kasir_Client_1/lib/JTattoo-1.6.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Kasir_Client_1/lib/mysql-connector-java-5.1.18-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
